@@ -6,18 +6,18 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Our Services",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Bridge Design1",
+            "Industrial Structures Design",
+            "Steel Structures",
+            "Residential And Commercial Structures"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Performance Based Design Of Structures",
+            "Seismic Performance Upgrading Of Structures",
+            "Fluid Structure Interaction Study For Hydraulic Structures",
+            "State of Art Design of Structures"
         ]
     },
     "Services": [{
