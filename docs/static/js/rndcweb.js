@@ -11,7 +11,7 @@
                 "About": {
                     "paragraph": "Our Services",
                     "Why": [
-                        "Bridge Design1",
+                        "Bridge Design",
                         "Industrial Structures Design",
                         "Steel Structures",
                         "Residential And Commercial Structures"
