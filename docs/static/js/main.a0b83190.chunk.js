@@ -135,12 +135,10 @@ var JsonData = {
     ]
 }
 
-
-
 (this["webpackJsonplandingpage-react-template"] = this["webpackJsonplandingpage-react-template"] || []).push([
     [0], {
         15: function(e) {
-            e.exports = JSON.parse(JsonData)
+            e.exports = JsonData//JSON.parse('')
         },
         23: function(e, i, t) {},
         44: function(e, i, t) {
