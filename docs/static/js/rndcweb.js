@@ -30,8 +30,8 @@
                     },
                     {
                         "icon": "fa fa-cart-arrow-down",
-                        "name": "Consectetur adipiscing",
-                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                        "name": "Tourism Structure Design",
+                        "text": "Structural analysis and design of tourism related structures like Bungee bridges, zipline structure, swing structures."
                     },
                     {
                         "icon": "fa fa-cloud-download",
