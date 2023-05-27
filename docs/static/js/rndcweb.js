@@ -24,7 +24,7 @@
                     ]
                 },
                 "Services": [{
-                        "icon": "fa fa-wordpress1",
+                        "icon": "bridge",
                         "name": "Bridge Structural Design",
                         "text": "Structural analysis and design of RCC, PSC, Steel bridges including T girder, Box girder,Extradossed Bridge and Cable Stayed Bridge."
                     },
