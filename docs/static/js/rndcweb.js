@@ -25,8 +25,8 @@
                 },
                 "Services": [{
                         "icon": "fa fa-wordpress1",
-                        "name": "Lorem ipsum dolor",
-                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                        "name": "Bridge Structural Design",
+                        "text": "Structural analysis and design of RCC, PSC, Steel bridges including T girder, Box girder,Extradossed Bridge and Cable Stayed Bridge."
                     },
                     {
                         "icon": "fa fa-cart-arrow-down",
