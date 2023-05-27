@@ -24,7 +24,7 @@
                     ]
                 },
                 "Services": [{
-                        "icon": "fa fa-wordpress",
+                        "icon": "fa fa-wordpress1",
                         "name": "Lorem ipsum dolor",
                         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
                     },
